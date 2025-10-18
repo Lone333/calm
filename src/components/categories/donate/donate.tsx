@@ -20,7 +20,7 @@ export function Donate() {
       <p className={styles.desc}>Help me keep Moodist ad-free.</p>
       <SpecialButton
         className={styles.button}
-        href="https://buymeacoffee.com/remvze"
+        href="https://buymeacoffee.com/llone"
       >
         Donate Today
       </SpecialButton>
