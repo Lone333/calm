@@ -5,7 +5,7 @@ import { Item } from '../item';
 export function Donate() {
   return (
     <Item
-      href="https://buymeacoffee.com/remvze"
+      href="https://buymeacoffee.com/llone"
       icon={<SiBuymeacoffee />}
       label="Buy Me a Coffee"
     />
